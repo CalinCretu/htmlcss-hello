@@ -1,0 +1,17 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(190, 190, 190);
+}
+ 
+li {
+    padding: 10px;
+}
